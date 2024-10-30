@@ -1,0 +1,11 @@
+{
+    "name": 					"LayerPoint Estimated Reading Time",
+    "version": 					"1.0.0",
+    "description": 				"Displays an estimated reading time of your blog posts",
+    "author": 					"LayerPoint",
+    "devDependencies": {
+        "gulp": 				"^3.9.0",
+        "gulp-autoprefixer": 	"^3.1.0",
+        "gulp-sass": 			"^2.1.1"
+    }
+}

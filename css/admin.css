@@ -1,0 +1,29 @@
+.lp-panel {
+  margin: 20px 0;
+  background: #fff;
+  border: 1px solid #ededed;
+  border-radius: 4px;
+}
+
+.lp-panel__header,
+.lp-panel__body,
+.lp-panel__footer {
+  padding: 10px;
+}
+
+.lp-panel__header {
+  border-bottom: 1px solid #ededed;
+}
+
+.lp-panel__title {
+  margin: 0;
+  padding-left: 10px;
+}
+
+.lp-table__col {
+  padding: 10px;
+}
+
+.lp-panel__footer {
+  border-top: 1px solid #ededed;
+}
